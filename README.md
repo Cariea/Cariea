@@ -58,5 +58,6 @@
  </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea"/>
 <br></br>
 <img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
