@@ -2,30 +2,25 @@
 
 <h3> About Me 🚀</h3>
 
-- Hi, I'm Carmelo Naim, a passionate software developer from Venezuela.
+- Hi, I'm Carmelo Naim, software developer from Venezuela.
 - 🌱 I'm actively learning **React** and striving to become proficient in both the **MERN** and **PERN** stacks.
 - 💬 Ask me about **Node, Express, RESTful APIs, and relational databases**.
 
 <a href="https://www.linkedin.com/in/carmelo-naim-542b81280/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a><a href="mailto:cnaim.dev@gmail.com" target="_blank">
+</a>
+<a href="mailto:cnaim.dev@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
 </a>
 
-#### SO
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="40" height="40"/>
-</p>
-
-#### Languages:
+#### Languages
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
 </p>
 
- #### Backend👓
+ #### Backend
  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
@@ -33,7 +28,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
  </p>
  
-#### Frontend Tools 🎨
+#### Frontend
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
