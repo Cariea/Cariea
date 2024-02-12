@@ -3,7 +3,8 @@
 <h3> About Me 🚀</h3>
 
 - Hi, I'm Carmelo Naim, software developer from Venezuela.
-- 🌱 I'm actively learning **React** and striving to become proficient in both the **MERN** and **PERN** stacks.
+- 🌱 I am currently learning **React** 
+- I am currently unemployed looking for work
 - 💬 Ask me about **Node, Express, RESTful APIs, and relational databases**.
 
 <a href="https://www.linkedin.com/in/carmelo-naim-542b81280/" target="_blank">
@@ -31,11 +32,6 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 </p>
-<h3>Other Tools</h3>
-  <p>
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/>
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40"/>
-  </p>
 <h3>Currently Learning... 📝</h3>
  <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
@@ -45,8 +41,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
  </p>
-
+<table><tr><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" />
+</td><td valign="top" width="50%">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea"/>
+</td></tr></table>  
 <br></br>
 <img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
