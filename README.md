@@ -34,6 +34,7 @@
 </p>
 <h3>Currently Learning... 📝</h3>
  <p>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>      
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
  </p>
 <h3>I am interested in learning</h3>
