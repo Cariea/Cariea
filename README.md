@@ -3,9 +3,9 @@
 <h3> About Me 🚀</h3>
 
 - Hi, I'm Carmelo Naim, software developer from Venezuela.
-- 🌱 I am currently learning **React** 
+- I am currently learning **Rust** 
 - I am currently unemployed looking for work
-- 💬 Ask me about **Node, Express, RESTful APIs, and relational databases**.
+- Ask me about **Node, Express, RESTful APIs, and relational databases**.
 
 <a href="https://www.linkedin.com/in/carmelo-naim-542b81280/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -31,11 +31,13 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>      
+   
 </p>
 <h3>Currently Learning... 📝</h3>
  <p>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>      
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" />  
  </p>
 <h3>I am interested in learning</h3>
  <p>
