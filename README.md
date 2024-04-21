@@ -41,7 +41,6 @@
  </p>
 <h3>I am interested in learning</h3>
  <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
  </p>
 <table><tr><td valign="top" width="50%">
