@@ -1,52 +1,54 @@
-# <p align="center" style="color: #3498db; text-shadow: 2px 2px 4px #888888;">Hello 👋, welcome to my GitHub profile!</p>
+<h3>Hey there! Welcome👋</h3>
 
-<h3> About Me 🚀</h3>
+#### 👨🏻‍💻 &nbsp;About Me
 
-- Hi, I'm Carmelo Naim, software developer from Venezuela.
-- I am currently learning **Rust** 
-- I am currently unemployed looking for work
-- Ask me about **Node, Express, RESTful APIs, and relational databases**.
+  &nbsp;I'm a Software Engineer in constant learning✨\
+  &nbsp;⚡I define myself as persevering, proactive and dynamic.\
+  &nbsp;🔭I’m currently working on personal and teamwork projects based on web development\
+  &nbsp;🤓Ask me about **Node, Express, NestJs, RESTful APIs, and relational databases**\
 
-<a href="https://www.linkedin.com/in/carmelo-naim-542b81280/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-<a href="mailto:cnaim.dev@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-%23D14836.svg?&style=flat-square&logo=gmail&logoColor=white" alt="Email">
-</a>
-<h3>Languages</h3>
+
+#### 🛠 &nbsp;Tech Stack
+
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=for-the-badge&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=for-the-badge&logo=javascript)&nbsp;
+![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=for-the-badge&logo=typescript)&nbsp;
+![React](https://img.shields.io/badge/-React-05122A?style=for-the-badge&logo=react)&nbsp;
+![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+<div style="display: flex; gap: 20px;">
+  <div>
+    <h4>📝 &nbsp;Currently Learning...</h4>
+    <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+  </div>
+  <div>
+    <h4>😍 &nbsp;I am interested in learning</h4>
+    <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
+  </div>
+</div>
+
+
+#### 🤝🏻 &nbsp;Connect with Me
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/carmelo-naim-542b81280/"><img src="https://img.shields.io/badge/-Carmelo%20Naim-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:cnaim.dev@gmail.com"><img src="https://img.shields.io/badge/-cnaim.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-<h3>Backend</h3>
- <p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
- </p>
- <h3>Frontend</h3>
-<p>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
-     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" width="40" height="40"/>      
-   
-</p>
-<h3>Currently Learning... 📝</h3>
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rust/rust-original.svg" width="40" height="40" />  
- </p>
-<h3>I am interested in learning</h3>
- <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="40" height="40"/>
- </p>
+
 <table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" />
+<img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
 </td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea"/>
-</td></tr></table>  
-<br></br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
+</td></tr></table>
+
 <img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
