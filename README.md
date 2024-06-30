@@ -28,21 +28,16 @@
 
 <table>
   <tr>
-    <td valign="top" width="50%" style="border-width: 0;">
-      <div>
+    <td width="50%" style="border: none;">
         <h4>📝 &nbsp;Currently Learning...</h4>
         <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
-      </div>
     </td>
-    <td valign="top" width="50%">  
-      <div>
+    <td width="50%" style="border: none;">  
         <h4>😍 &nbsp;I am interested in learning</h4>
         <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
-      </div>
     </td>
   </tr>
 </table>
-
 
 
 #### 🤝🏻 &nbsp;Connect with Me
