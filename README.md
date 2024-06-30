@@ -23,34 +23,34 @@
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Type](https://img.shields.io/badge/TypeORM-3982CE?style=for-the-badge&logo=TypeORM&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
+#### ✍️ &nbsp;learning
+
+| 📝 Currently Learning... | 😍 I am interested in learning |
+| --- | --- |
+| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) |
+
+#### 🔥 &nbsp;Stats
+
 <table>
   <tr>
-    <td width="50%" style="border: none;">
-        <h4>📝 &nbsp;Currently Learning...</h4>
-        <img src="https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
     </td>
-    <td width="50%" style="border: none;">  
-        <h4>😍 &nbsp;I am interested in learning</h4>
-        <img src="https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
     </td>
   </tr>
 </table>
 
-
 #### 🤝🏻 &nbsp;Connect with Me
 
 <p>
-<a href="https://www.linkedin.com/in/carmelo-naim-542b81280/"><img src="https://img.shields.io/badge/-Carmelo%20Naim-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:cnaim.dev@gmail.com"><img src="https://img.shields.io/badge/-cnaim.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/carmelo-naim-542b81280/"><img src="https://img.shields.io/badge/-Carmelo%20Naim-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="mailto:cnaim.dev@gmail.com"><img src="https://img.shields.io/badge/-cnaim.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
-
-<table><tr><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api?username=cariea&show_icons=true&locale=en&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
-</td><td valign="top" width="50%">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cariea&layout=compact&theme=dracula" alt="cariea" style="height: 200px; width: auto;">
-</td></tr></table>
 
 <img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
