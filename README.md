@@ -53,4 +53,4 @@
   <a href="mailto:cnaim.dev@gmail.com"><img src="https://img.shields.io/badge/-cnaim.dev@gmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>[![committers.top badge](https://user-badge.committers.top/venezuela/Cariea.svg)](https://user-badge.committers.top/venezuela/Cariea)
