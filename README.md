@@ -5,7 +5,7 @@
   &nbsp;I'm a Software Engineer in constant learning✨\
   &nbsp;⚡I define myself as persevering, proactive and dynamic.\
   &nbsp;🔭I’m currently working on personal and teamwork projects based on web development\
-  &nbsp;🤓Ask me about **Node, Express, NestJs, RESTful APIs, and relational databases**\
+  &nbsp;🤓Ask me about **Node, Express, NestJs, RESTful APIs, and relational databases**
 
 
 #### 🛠 &nbsp;Tech Stack
