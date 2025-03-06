@@ -25,12 +25,6 @@
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-#### ✍️ &nbsp;learning
-
-| 📝 Currently Learning... | 😍 I am interested in learning |
-| --- | --- |
-| ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) | ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) |
-
 #### 🔥 &nbsp;Stats 
 <details>
   <summary> ⚡: Github Stats 📊</summary>
