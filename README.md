@@ -1,5 +1,4 @@
-# ![](https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966)
-
+# <img src="https://camo.githubusercontent.com/ff4478f93581788c3f10a8961c0622cc36f37c7115f91a6b68443726005d4a43/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" width="50">
 [![committers.top badge](https://user-badge.committers.top/venezuela/Cariea.svg)](https://user-badge.committers.top/venezuela/Cariea)<img src="https://komarev.com/ghpvc/?username=cariea&style=flat-square"/>
 
 
